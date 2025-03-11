@@ -1,0 +1,14 @@
+2. Selenium Program
+Scenario
+URL: https://jqueryui.com/droppable/
+Test Steps:
+ Navigate to URL
+ Validate page title
+ Perform drag and drop
+ Perform click and hold &amp; release
+ Perform drag and drop by offset
+Validations to be performed:
+Validation 1: Verify Page Title contains &quot;jQuery contextMenu&quot;
+Validation 2: Validate Drag and Drop Success (Text change to &quot;Dropped!&quot;)
+Validation 3: Confirm Click and Hold + Release Action
+Validation 4: Validate Drag and Drop by Offset Successfully Executed
